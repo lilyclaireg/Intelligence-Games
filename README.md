@@ -1,2 +1,6 @@
 # Intelligence-Games
 For my Introduction to Programming in Java course (CPSC1060) here at Clemson University, we were assigned a final project that allowed us to creatively create a game! This game is a parallel between the Hunger Games, one of my favorite book series, and the American Public Education System.
+
+I am a double major here at Clemson- Mathematical Sciences and Secondary Education. Initially, I wanted to be a high school mathematics teacher. However, with my education major, I've been able to learn about the public education system, including it's on-going flaws. I am saddened to say that our public education system fails many of our children here in America. We are in, what seems, desperate need of systematic change, reformatting how we provide education to our children. As humanity advances, our education system needs to as well. This task will be challenging due to many factors such as what does a good public education system look like, how do we get there, how do we fund this, etc., but this challenge is something we can fix if we work together.
+
+I hope that in my future, I will be able to be apart of changing our public education for the better. This is something I care deeply about and I know we can do better if we take the steps we need to. A small part of change, is bringing attention to the topic, so that is my goal today.
